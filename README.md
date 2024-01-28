@@ -1,1 +1,1 @@
-# .github
+# Notecard is coming soon!
